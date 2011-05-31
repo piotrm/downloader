@@ -1,0 +1,5 @@
+v 0.1
+
+Please provide url, login and password in main.rb. 
+
+Files are downloaded into directory of script execution.
